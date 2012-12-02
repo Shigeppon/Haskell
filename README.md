@@ -11,3 +11,9 @@ $ ghc -o hello hello.hs
 $ ./hello
 Hello, World!
 ````
+
+## もう一つのコンパイル方法
+readLn.hsというファイルがあったとして
+````
+$ ghc --make readLn.hs
+````
