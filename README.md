@@ -23,5 +23,7 @@ $ ghc --make readLn.hs
 分数を扱うためのモジュールRationalのロード方法
 ````
 Prelude> :module + Data.Ratio
+Prelude> 1 % 2 + 1 % 3
+5 % 6
 ````
 意味はこのあと調べる
