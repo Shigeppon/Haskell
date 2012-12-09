@@ -1,7 +1,7 @@
 Haskell
 =======
 ## 教科書
-![hoge](http://book.realworldhaskell.org/read/)
+[Real World Haskell](http://book.realworldhaskell.org/read/)
 
 ## コンパイルの方法
 hello.hsというファイルを  
