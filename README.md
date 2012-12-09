@@ -18,3 +18,10 @@ readLn.hsというファイルがあったとして
 $ ghc --make readLn.hs
 ````
 コマンド行中にhsファイルがあれば、--makeは省略可能
+----
+## モジュールのロード
+分数を扱うためのモジュールRationalのロード方法
+````
+Prelude> :module + Data.Ratio
+````
+意味はこのあと調べる
