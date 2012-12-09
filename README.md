@@ -30,3 +30,13 @@ Prelude> 1 % 2 + 1 % 3
 5 % 6
 ````
 意味はこのあと調べる
+## プロンプトの変更
+````
+Prelude> :set prompt "ghci> "
+ghci>
+````
+## モジュールの使い方
+````
+ghci> :module + Data.Ratio
+````
+
